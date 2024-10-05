@@ -1,0 +1,5 @@
+git diff <-branchname->  //to compare commits,branches,files and more
+git merge <-branchname-> //to merge two branches
+git log //to check the commits or history
+
+
