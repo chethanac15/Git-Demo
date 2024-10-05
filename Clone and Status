@@ -1,0 +1,11 @@
+//Clone
+git clone <-some link-> 
+//link can be of the form https etc
+
+
+ls //list down the files
+ls -a //list down the hidden files
+
+
+//Status
+git status 
