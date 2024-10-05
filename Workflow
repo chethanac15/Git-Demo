@@ -1,0 +1,7 @@
+Step 1.Github repository
+Step 2.Clone
+Step 3.Changes
+Step 4.Add
+Step 5.Commit
+Step 5.Push
+   
