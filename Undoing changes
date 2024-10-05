@@ -1,0 +1,9 @@
+git reset <-filename-> 
+git reset
+git reset HEAD~1
+git reset <-commit hash-> 
+git reset --hard <-commit hash-> 
+//hash refers to the number which appears when the history of the commit is checked
+
+*Fork:Its a rough copy of the repository
+Fork-->Changes-->Raise pull request 
