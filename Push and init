@@ -1,0 +1,13 @@
+//Push
+git push origin main
+
+//Init
+git init
+git remote add origin <-some link->
+git remote -v  //to verify remote
+git branch //to check branch
+git branch -m main //to rename branch
+git push origin main
+//Push the code to the same repository
+git push -u origin main
+git push
